@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Igor Rebeque
+# Igor Rebeque
 
 **`Desenvolvedor FullStack`**
 
