@@ -158,4 +158,10 @@ Me chamo Igor Rebeque, tenho 20 anos, Moro em São Paulo. Me formei em Desenvolv
 
 </p>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorAlves23/IgorAlves23/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorAlves23/IgorAlves23/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+
 
